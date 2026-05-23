@@ -18,4 +18,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 # Deployment live link
-https://cute-quokka-42f8aa.netlify.app/
+https://quickblog07.netlify.app/
